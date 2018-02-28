@@ -1,0 +1,3 @@
+./x265 --input-res 832x240 --fps 30 -f 8 --input /home/tom/ex.yuv -o test_1E-5BER.265 --psnr
+
+./../../../../pin -t ../../source/tools/ManualExamples/obj-intel64/memapprox.so -- ./x265 --input-res 832x240 --fps 30 -f 8 --input /home/tom/ex.yuv -o test_w-4_r-6.265 --wber-me 1E-4 --rber-me 1E-6 --psnr

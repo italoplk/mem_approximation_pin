@@ -1,0 +1,18 @@
+yuv  [info]: 1920x1080 fps 50000/1000 i420p8 frames 0 - 79 of 501
+raw  [info]: output file: /home/tom/mem_approx/pin-memapprox/examples/x265_2.5/outputs/videos/BasketballDrive_1920x1080_50_qp22_1E-5_1E-4.265
+x265 [info]: HEVC encoder version 2.5
+x265 [info]: build info [Linux][GCC 5.4.0][64 bit] 8bit
+x265 [info]: using cpu capabilities: MMX2 SSE2Fast LZCNT SSSE3 SSE4.2 AVX FMA3 BMI2 AVX2
+x265 [info]: Main profile, Level-4.1 (Main tier)
+x265 [info]: Slices                              : 1
+x265 [info]: frame threads / pool features       : 1 / none
+x265 [info]: Coding QT: max CU size, min CU size : 64 / 8
+x265 [info]: Residual QT: max TU size, max depth : 32 / 1 inter / 1 intra
+x265 [info]: ME / range / subpel / merge         : hex / 57 / 2 / 2
+x265 [info]: Keyframe min / max / scenecut / bias: 25 / 250 / 40 / 5.00
+x265 [info]: Lookahead / bframes / badapt        : 20 / 4 / 2
+x265 [info]: b-pyramid / weightp / weightb       : 1 / 1 / 0
+x265 [info]: References / ref-limit  cu / depth  : 3 / on / on
+x265 [info]: Rate Control                        : CQP-22
+x265 [info]: tools: rd=3 rskip signhide tmvp strong-intra-smoothing deblock sao
+[1.2%] 1/80 frames, 0.01 fps, 128274.01 kb/s, eta 3:06:52  [2.5%] 2/80 frames, 0.00 fps, 86399.60 kb/s, eta 5:11:35  [3.8%] 3/80 frames, 0.00 fps, 67480.94 kb/s, eta 7:50:41  [5.0%] 4/80 frames, 0.00 fps, 55588.80 kb/s, eta 9:39:25  [6.2%] 5/80 frames, 0.00 fps, 48712.64 kb/s, eta 10:58:16  [7.5%] 6/80 frames, 0.00 fps, 47778.07 kb/s, eta 11:53:35  [8.8%] 7/80 frames, 0.00 fps, 45565.43 kb/s, eta 12:47:21  [10.0%] 8/80 frames, 0.00 fps, 42623.80 kb/s, eta 13:18:01  [11.2%] 9/80 frames, 0.00 fps, 40388.23 kb/s, eta 13:45:03  [12.5%] 10/80 frames, 0.00 fps, 40541.84 kb/s, eta 14:00:48  [13.8%] 11/80 frames, 0.00 fps, 39586.77 kb/s, eta 14:12:32  [15.0%] 12/80 frames, 0.00 fps, 38357.84 kb/s, eta 14:23:42  [16.2%] 13/80 frames, 0.00 fps, 37260.89 kb/s, eta 14:31:28  [17.5%] 14/80 frames, 0.00 fps, 36181.00 kb/s, eta 14:36:26  [18.8%] 15/80 frames, 0.00 fps, 36486.75 kb/s, eta 14:30:40  [20.0%] 16/80 frames, 0.00 fps, 35897.48 kb/s, eta 14:26:10  [21.2%] 17/80 frames, 0.00 fps, 34868.09 kb/s, eta 14:16:06  Aborted (core dumped)

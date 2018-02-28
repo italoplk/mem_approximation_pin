@@ -1,0 +1,18 @@
+yuv  [info]: 3840x2160 fps 60000/1000 i420p8 frames 0 - 79 of 996
+raw  [info]: output file: /home/tom/mem_approx/pin-memapprox/examples/x265_2.5/outputs/Coastguard_3840x2160_60fps/videos/Coastguard_3840x2160_60fps_qp22_1E-3_1E-6.265
+x265 [info]: HEVC encoder version 2.5
+x265 [info]: build info [Linux][GCC 5.4.0][64 bit] 8bit
+x265 [info]: using cpu capabilities: MMX2 SSE2Fast LZCNT SSSE3 SSE4.2 AVX FMA3 BMI2 AVX2
+x265 [info]: Main profile, Level-5.1 (Main tier)
+x265 [info]: Slices                              : 1
+x265 [info]: frame threads / pool features       : 1 / none
+x265 [info]: Coding QT: max CU size, min CU size : 64 / 8
+x265 [info]: Residual QT: max TU size, max depth : 32 / 1 inter / 1 intra
+x265 [info]: ME / range / subpel / merge         : hex / 57 / 2 / 2
+x265 [info]: Keyframe min / max / scenecut / bias: 25 / 250 / 40 / 5.00
+x265 [info]: Lookahead / bframes / badapt        : 20 / 4 / 2
+x265 [info]: b-pyramid / weightp / weightb       : 1 / 1 / 0
+x265 [info]: References / ref-limit  cu / depth  : 3 / on / on
+x265 [info]: Rate Control                        : CQP-22
+x265 [info]: tools: rd=3 rskip signhide tmvp strong-intra-smoothing deblock sao
+[1.2%] 1/80 frames, 0.00 fps, 3405217.50 kb/s, eta 8:26:58  [2.5%] 2/80 frames, 0.00 fps, 3599335.75 kb/s, eta 9:47:39  [3.8%] 3/80 frames, 0.00 fps, 3329549.75 kb/s, eta 20:16:11  [5.0%] 4/80 frames, 0.00 fps, 3363767.50 kb/s, eta 32:24:37  [6.2%] 5/80 frames, 0.00 fps, 2701097.25 kb/s, eta 33:51:17  [7.5%] 6/80 frames, 0.00 fps, 2778856.50 kb/s, eta 44:26:00  [8.8%] 7/80 frames, 0.00 fps, 2781343.25 kb/s, eta 48:45:17  [10.0%] 8/80 frames, 0.00 fps, 2763579.50 kb/s, eta 51:36:00  [11.2%] 9/80 frames, 0.00 fps, 2794707.00 kb/s, eta 51:07:36  [12.5%] 10/80 frames, 0.00 fps, 2850091.50 kb/s, eta 54:33:31  [13.8%] 11/80 frames, 0.00 fps, 2593200.50 kb/s, eta 52:18:43  [15.0%] 12/80 frames, 0.00 fps, 2661806.00 kb/s, eta 52:43:58  [16.2%] 13/80 frames, 0.00 fps, 2461031.50 kb/s, eta 50:45:00  [17.5%] 14/80 frames, 0.00 fps, 2289279.25 kb/s, eta 49:02:54  [18.8%] 15/80 frames, 0.00 fps, 2308587.25 kb/s, eta 49:26:35  Segmentation fault (core dumped)

@@ -1,0 +1,343 @@
+add_approx 140107824091200 140107824570432
+set_read_ber 0.000010
+set_write_ber 0.000100
+add_approx 140107841810496 140107842289728
+set_read_ber 0.000010
+set_write_ber 0.000100
+remove_approx 140107824091200 140107824570432
+remove_approx 140107841810496 140107842289728
+add_approx 140107819896896 140107820376128
+set_read_ber 0.000010
+set_write_ber 0.000100
+add_approx 140107824091200 140107824570432
+set_read_ber 0.000010
+set_write_ber 0.000100
+add_approx 140107841810496 140107842289728
+set_read_ber 0.000010
+set_write_ber 0.000100
+remove_approx 140107819896896 140107820376128
+remove_approx 140107824091200 140107824570432
+remove_approx 140107841810496 140107842289728
+add_approx 36218464 36697696
+set_read_ber 0.000010
+set_write_ber 0.000100
+add_approx 140107819896896 140107820376128
+set_read_ber 0.000010
+set_write_ber 0.000100
+add_approx 140107824091200 140107824570432
+set_read_ber 0.000010
+set_write_ber 0.000100
+remove_approx 36218464 36697696
+remove_approx 140107819896896 140107820376128
+remove_approx 140107824091200 140107824570432
+add_approx 36218464 36697696
+set_read_ber 0.000010
+set_write_ber 0.000100
+add_approx 140107819896896 140107820376128
+set_read_ber 0.000010
+set_write_ber 0.000100
+add_approx 140107824091200 140107824570432
+set_read_ber 0.000010
+set_write_ber 0.000100
+add_approx 40070016 40549248
+set_read_ber 0.000010
+set_write_ber 0.000100
+remove_approx 36218464 36697696
+remove_approx 140107819896896 140107820376128
+remove_approx 140107824091200 140107824570432
+remove_approx 40070016 40549248
+add_approx 36218464 36697696
+set_read_ber 0.000010
+set_write_ber 0.000100
+add_approx 140107819896896 140107820376128
+set_read_ber 0.000010
+set_write_ber 0.000100
+add_approx 43921568 44400800
+set_read_ber 0.000010
+set_write_ber 0.000100
+add_approx 40070016 40549248
+set_read_ber 0.000010
+set_write_ber 0.000100
+remove_approx 36218464 36697696
+remove_approx 140107819896896 140107820376128
+remove_approx 43921568 44400800
+remove_approx 40070016 40549248
+add_approx 40070016 40549248
+set_read_ber 0.000010
+set_write_ber 0.000100
+add_approx 43921568 44400800
+set_read_ber 0.000010
+set_write_ber 0.000100
+add_approx 36218464 36697696
+set_read_ber 0.000010
+set_write_ber 0.000100
+remove_approx 40070016 40549248
+remove_approx 43921568 44400800
+remove_approx 36218464 36697696
+add_approx 140107824091200 140107824570432
+set_read_ber 0.000010
+set_write_ber 0.000100
+add_approx 40070016 40549248
+set_read_ber 0.000010
+set_write_ber 0.000100
+add_approx 43921568 44400800
+set_read_ber 0.000010
+set_write_ber 0.000100
+remove_approx 140107824091200 140107824570432
+remove_approx 40070016 40549248
+remove_approx 43921568 44400800
+add_approx 140107824091200 140107824570432
+set_read_ber 0.000010
+set_write_ber 0.000100
+add_approx 40070016 40549248
+set_read_ber 0.000010
+set_write_ber 0.000100
+add_approx 43921568 44400800
+set_read_ber 0.000010
+set_write_ber 0.000100
+add_approx 140107841810496 140107842289728
+set_read_ber 0.000010
+set_write_ber 0.000100
+remove_approx 140107824091200 140107824570432
+remove_approx 40070016 40549248
+remove_approx 43921568 44400800
+remove_approx 140107841810496 140107842289728
+add_approx 140107841810496 140107842289728
+set_read_ber 0.000010
+set_write_ber 0.000100
+add_approx 140107824091200 140107824570432
+set_read_ber 0.000010
+set_write_ber 0.000100
+add_approx 40070016 40549248
+set_read_ber 0.000010
+set_write_ber 0.000100
+remove_approx 140107841810496 140107842289728
+remove_approx 140107824091200 140107824570432
+remove_approx 40070016 40549248
+add_approx 36218464 36697696
+set_read_ber 0.000010
+set_write_ber 0.000100
+add_approx 140107841810496 140107842289728
+set_read_ber 0.000010
+set_write_ber 0.000100
+add_approx 140107824091200 140107824570432
+set_read_ber 0.000010
+set_write_ber 0.000100
+remove_approx 36218464 36697696
+remove_approx 140107841810496 140107842289728
+remove_approx 140107824091200 140107824570432
+add_approx 36218464 36697696
+set_read_ber 0.000010
+set_write_ber 0.000100
+add_approx 140107841810496 140107842289728
+set_read_ber 0.000010
+set_write_ber 0.000100
+add_approx 140107824091200 140107824570432
+set_read_ber 0.000010
+set_write_ber 0.000100
+add_approx 140107819896896 140107820376128
+set_read_ber 0.000010
+set_write_ber 0.000100
+remove_approx 36218464 36697696
+remove_approx 140107841810496 140107842289728
+remove_approx 140107824091200 140107824570432
+remove_approx 140107819896896 140107820376128
+add_approx 140107819896896 140107820376128
+set_read_ber 0.000010
+set_write_ber 0.000100
+add_approx 36218464 36697696
+set_read_ber 0.000010
+set_write_ber 0.000100
+add_approx 140107841810496 140107842289728
+set_read_ber 0.000010
+set_write_ber 0.000100
+remove_approx 140107819896896 140107820376128
+remove_approx 36218464 36697696
+remove_approx 140107841810496 140107842289728
+add_approx 43921568 44400800
+set_read_ber 0.000010
+set_write_ber 0.000100
+add_approx 140107819896896 140107820376128
+set_read_ber 0.000010
+set_write_ber 0.000100
+add_approx 36218464 36697696
+set_read_ber 0.000010
+set_write_ber 0.000100
+remove_approx 43921568 44400800
+remove_approx 140107819896896 140107820376128
+remove_approx 36218464 36697696
+add_approx 43921568 44400800
+set_read_ber 0.000010
+set_write_ber 0.000100
+add_approx 140107819896896 140107820376128
+set_read_ber 0.000010
+set_write_ber 0.000100
+add_approx 36218464 36697696
+set_read_ber 0.000010
+set_write_ber 0.000100
+add_approx 40070016 40549248
+set_read_ber 0.000010
+set_write_ber 0.000100
+remove_approx 43921568 44400800
+remove_approx 140107819896896 140107820376128
+remove_approx 36218464 36697696
+remove_approx 40070016 40549248
+add_approx 43921568 44400800
+set_read_ber 0.000010
+set_write_ber 0.000100
+add_approx 140107819896896 140107820376128
+set_read_ber 0.000010
+set_write_ber 0.000100
+add_approx 140107824091200 140107824570432
+set_read_ber 0.000010
+set_write_ber 0.000100
+add_approx 40070016 40549248
+set_read_ber 0.000010
+set_write_ber 0.000100
+remove_approx 43921568 44400800
+remove_approx 140107819896896 140107820376128
+remove_approx 140107824091200 140107824570432
+remove_approx 40070016 40549248
+add_approx 40070016 40549248
+set_read_ber 0.000010
+set_write_ber 0.000100
+add_approx 140107824091200 140107824570432
+set_read_ber 0.000010
+set_write_ber 0.000100
+add_approx 43921568 44400800
+set_read_ber 0.000010
+set_write_ber 0.000100
+remove_approx 40070016 40549248
+remove_approx 140107824091200 140107824570432
+remove_approx 43921568 44400800
+add_approx 36218464 36697696
+set_read_ber 0.000010
+set_write_ber 0.000100
+add_approx 40070016 40549248
+set_read_ber 0.000010
+set_write_ber 0.000100
+add_approx 140107824091200 140107824570432
+set_read_ber 0.000010
+set_write_ber 0.000100
+remove_approx 36218464 36697696
+remove_approx 40070016 40549248
+remove_approx 140107824091200 140107824570432
+add_approx 36218464 36697696
+set_read_ber 0.000010
+set_write_ber 0.000100
+add_approx 40070016 40549248
+set_read_ber 0.000010
+set_write_ber 0.000100
+add_approx 140107824091200 140107824570432
+set_read_ber 0.000010
+set_write_ber 0.000100
+add_approx 140107841810496 140107842289728
+set_read_ber 0.000010
+set_write_ber 0.000100
+remove_approx 36218464 36697696
+remove_approx 40070016 40549248
+remove_approx 140107824091200 140107824570432
+remove_approx 140107841810496 140107842289728
+add_approx 140107841810496 140107842289728
+set_read_ber 0.000010
+set_write_ber 0.000100
+add_approx 36218464 36697696
+set_read_ber 0.000010
+set_write_ber 0.000100
+add_approx 40070016 40549248
+set_read_ber 0.000010
+set_write_ber 0.000100
+remove_approx 140107841810496 140107842289728
+remove_approx 36218464 36697696
+remove_approx 40070016 40549248
+add_approx 43921568 44400800
+set_read_ber 0.000010
+set_write_ber 0.000100
+add_approx 140107841810496 140107842289728
+set_read_ber 0.000010
+set_write_ber 0.000100
+add_approx 36218464 36697696
+set_read_ber 0.000010
+set_write_ber 0.000100
+remove_approx 43921568 44400800
+remove_approx 140107841810496 140107842289728
+remove_approx 36218464 36697696
+add_approx 43921568 44400800
+set_read_ber 0.000010
+set_write_ber 0.000100
+add_approx 140107841810496 140107842289728
+set_read_ber 0.000010
+set_write_ber 0.000100
+add_approx 36218464 36697696
+set_read_ber 0.000010
+set_write_ber 0.000100
+add_approx 140107819896896 140107820376128
+set_read_ber 0.000010
+set_write_ber 0.000100
+remove_approx 43921568 44400800
+remove_approx 140107841810496 140107842289728
+remove_approx 36218464 36697696
+remove_approx 140107819896896 140107820376128
+add_approx 140107819896896 140107820376128
+set_read_ber 0.000010
+set_write_ber 0.000100
+add_approx 43921568 44400800
+set_read_ber 0.000010
+set_write_ber 0.000100
+add_approx 140107841810496 140107842289728
+set_read_ber 0.000010
+set_write_ber 0.000100
+remove_approx 140107819896896 140107820376128
+remove_approx 43921568 44400800
+remove_approx 140107841810496 140107842289728
+add_approx 140107824091200 140107824570432
+set_read_ber 0.000010
+set_write_ber 0.000100
+add_approx 140107819896896 140107820376128
+set_read_ber 0.000010
+set_write_ber 0.000100
+add_approx 43921568 44400800
+set_read_ber 0.000010
+set_write_ber 0.000100
+remove_approx 140107824091200 140107824570432
+remove_approx 140107819896896 140107820376128
+remove_approx 43921568 44400800
+add_approx 140107824091200 140107824570432
+set_read_ber 0.000010
+set_write_ber 0.000100
+add_approx 140107819896896 140107820376128
+set_read_ber 0.000010
+set_write_ber 0.000100
+add_approx 43921568 44400800
+set_read_ber 0.000010
+set_write_ber 0.000100
+add_approx 40070016 40549248
+set_read_ber 0.000010
+set_write_ber 0.000100
+remove_approx 140107824091200 140107824570432
+remove_approx 140107819896896 140107820376128
+remove_approx 43921568 44400800
+remove_approx 40070016 40549248
+add_approx 140107824091200 140107824570432
+set_read_ber 0.000010
+set_write_ber 0.000100
+add_approx 140107819896896 140107820376128
+set_read_ber 0.000010
+set_write_ber 0.000100
+add_approx 36218464 36697696
+set_read_ber 0.000010
+set_write_ber 0.000100
+add_approx 40070016 40549248
+set_read_ber 0.000010
+set_write_ber 0.000100
+remove_approx 140107824091200 140107824570432
+remove_approx 140107819896896 140107820376128
+remove_approx 36218464 36697696
+remove_approx 40070016 40549248
+add_approx 40070016 40549248
+set_read_ber 0.000010
+set_write_ber 0.000100
+add_approx 36218464 36697696
+set_read_ber 0.000010
+set_write_ber 0.000100
+add_approx 1                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                

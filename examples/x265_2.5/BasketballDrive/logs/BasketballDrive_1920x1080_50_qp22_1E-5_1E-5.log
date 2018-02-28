@@ -1,0 +1,19 @@
+yuv  [info]: 1920x1080 fps 50000/1000 i420p8 frames 0 - 79 of 501
+raw  [info]: output file: /home/tom/mem_approx/pin-memapprox/examples/x265_2.5/outputs/videos/BasketballDrive_1920x1080_50_qp22_1E-5_1E-5.265
+x265 [info]: HEVC encoder version 2.5
+x265 [info]: build info [Linux][GCC 5.4.0][64 bit] 8bit
+x265 [info]: using cpu capabilities: MMX2 SSE2Fast LZCNT SSSE3 SSE4.2 AVX FMA3 BMI2 AVX2
+x265 [info]: Main profile, Level-4.1 (Main tier)
+x265 [info]: Slices                              : 1
+x265 [info]: frame threads / pool features       : 1 / none
+x265 [info]: Coding QT: max CU size, min CU size : 64 / 8
+x265 [info]: Residual QT: max TU size, max depth : 32 / 1 inter / 1 intra
+x265 [info]: ME / range / subpel / merge         : hex / 57 / 2 / 2
+x265 [info]: Keyframe min / max / scenecut / bias: 25 / 250 / 40 / 5.00
+x265 [info]: Lookahead / bframes / badapt        : 20 / 4 / 2
+x265 [info]: b-pyramid / weightp / weightb       : 1 / 1 / 0
+x265 [info]: References / ref-limit  cu / depth  : 3 / on / on
+x265 [info]: Rate Control                        : CQP-22
+x265 [info]: tools: rd=3 rskip signhide tmvp strong-intra-smoothing deblock sao
+[1.2%] 1/80 frames, 0.01 fps, 128274.01 kb/s, eta 3:10:04  [2.5%] 2/80 frames, 0.00 fps, 85541.00 kb/s, eta 5:09:56  [3.8%] 3/80 frames, 0.00 fps, 64657.47 kb/s, eta 7:19:50  [5.0%] 4/80 frames, 0.00 fps, 52081.40 kb/s, eta 8:58:22  [6.2%] 5/80 frames, 0.00 fps, 44524.24 kb/s, eta 9:42:19  [7.5%] 6/80 frames, 0.00 fps, 43389.14 kb/s, eta 10:40:02  [8.8%] 7/80 frames, 0.00 fps, 40528.75 kb/s, eta 11:08:08  [10.0%] 8/80 frames, 0.00 fps, 37358.90 kb/s, eta 11:35:36  [11.2%] 9/80 frames, 0.00 fps, 34896.67 kb/s, eta 12:01:30  [12.5%] 10/80 frames, 0.00 fps, 35059.96 kb/s, eta 12:24:49  [13.8%] 11/80 frames, 0.00 fps, 33857.20 kb/s, eta 12:46:08  [15.0%] 12/80 frames, 0.00 fps, 32411.07 kb/s, eta 12:45:45  [16.2%] 13/80 frames, 0.00 fps, 31158.00 kb/s, eta 12:38:44  [17.5%] 14/80 frames, 0.00 fps, 29880.12 kb/s, eta 12:32:26  [18.8%] 15/80 frames, 0.00 fps, 30171.52 kb/s, eta 12:25:31  [20.0%] 16/80 frames, 0.00 fps, 29431.80 kb/s, eta 12:25:47  [21.2%] 17/80 frames, 0.00 fps, 28360.73 kb/s, eta 12:21:58  C: Tool (or Pin) caused signal 11 at PC 0x7f292f8ceb40
+Segmentation fault (core dumped)

@@ -1,0 +1,7 @@
+add_approx 140290842239040 140290842718272
+set_read_ber 0.000000
+set_write_ber 0.000010
+add_approx 140290860159040 140290860638272
+set_read_ber 0.000000
+set_write_ber 0.000010
+#eof
